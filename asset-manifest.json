@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PotteHead_Api/static/css/main.feade3fe.chunk.css",
+    "main.js": "/PotteHead_Api/static/js/main.e7f9072b.chunk.js",
+    "main.js.map": "/PotteHead_Api/static/js/main.e7f9072b.chunk.js.map",
+    "runtime-main.js": "/PotteHead_Api/static/js/runtime-main.c15329ce.js",
+    "runtime-main.js.map": "/PotteHead_Api/static/js/runtime-main.c15329ce.js.map",
+    "static/js/2.5e62afff.chunk.js": "/PotteHead_Api/static/js/2.5e62afff.chunk.js",
+    "static/js/2.5e62afff.chunk.js.map": "/PotteHead_Api/static/js/2.5e62afff.chunk.js.map",
+    "index.html": "/PotteHead_Api/index.html",
+    "static/css/main.feade3fe.chunk.css.map": "/PotteHead_Api/static/css/main.feade3fe.chunk.css.map",
+    "static/js/2.5e62afff.chunk.js.LICENSE.txt": "/PotteHead_Api/static/js/2.5e62afff.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/PotteHead_Api/static/media/bg.ec4e3d9e.jpg",
+    "static/media/spinner.11d9cde8.gif": "/PotteHead_Api/static/media/spinner.11d9cde8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c15329ce.js",
+    "static/js/2.5e62afff.chunk.js",
+    "static/css/main.feade3fe.chunk.css",
+    "static/js/main.e7f9072b.chunk.js"
+  ]
+}
