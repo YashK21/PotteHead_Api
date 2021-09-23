@@ -9,9 +9,10 @@ const App = () => {
   useEffect(() => {
     let fetchItems = async () => {
       let url = `http://hp-api.herokuapp.com/api/characters?name`;
-      let result = await axios(url);
+      let result = await fetch(url);
+      let result_json = await fetch(result);
       // console.log(result.data);
-      setItems(result.data);
+      setItems(result_json.data);
       setisloading(false);
     };
     fetchItems();
